@@ -5,7 +5,7 @@ A simple example of some BDD-style automated acceptance criteria, running agains
 Run the tests like this:
 
 ```
-mvn clean verify
+mvn clean aggregate
 ```
 
 The reports will be generated in `target/site/serenity`.
